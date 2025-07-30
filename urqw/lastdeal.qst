@@ -2,9 +2,9 @@
 textcolor=0x00BFFF
 textalign=3
 pln 
-pln ПОСЛЕДНЕЕ ДЕЛО#/$
+pln <center>ПОСЛЕДНЕЕ ДЕЛО</center>#/$
 textcolor=0x4A708B
-pln Автор: Антон Жучков (fireton@mail.ru)#/$#/$#/$#/$
+pln <center>Автор: Антон Жучков (fireton@mail.ru)</center>#/$#/$#/$#/$
 textcolor=0x6B6B6B
 pln [нажмите любую клавишу для начала игры]
 anykey
