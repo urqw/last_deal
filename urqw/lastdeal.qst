@@ -6,7 +6,7 @@ pln <center>ПОСЛЕДНЕЕ ДЕЛО</center>#/$
 textcolor=0x4A708B
 pln <center>Автор: Антон Жучков (fireton@mail.ru)</center>#/$#/$#/$#/$
 textcolor=0x6B6B6B
-pln [нажмите любую клавишу для начала игры]
+/* pln [нажмите любую клавишу для начала игры] */
 anykey
 
 :Начало
