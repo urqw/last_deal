@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>8B8FD046EC412677F33FD3ACAF234AEB</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Последнее дело</title>
+			<author>Антон Жучков (Fireton)</author>
+			<language>ru</language>
+			<firstpublished>2009-06-30</firstpublished>
+			<genre>Драма</genre>
+			<group>URQ</group>
+			<description>Холодно... Как же всё-таки холодно... Ты пытаешься покрепче закутаться в одежду, но теплее не становится.<br/>А тот холод, что внутри, унять и вовсе невозможно...<br/>Ветер воет в кронах кладбищенских деревьев, стараясь оборвать с них последние листья. Осень... Осень в душе, зима в сердце.<br/>Давно уже пора встать и идти, но ты не можешь оторвать взгляд от могилы... "Пока смерть не разлучит вас..." Этот момент казался таким далёким, ты думал, что до него вечность, целая жизнь. Но оказалось не так.</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#last_deal</url>
+			<authoremail>fireton@mail.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
